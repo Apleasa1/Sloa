@@ -9,7 +9,7 @@ body{
 	width:500px;
 	height: 400px;
 	text-align:center;
-	background-color: rgba(52,73,94,0.7);
+	background-color: red;
 	border-radius: 4px;
 	margin-top:150px;
 	padding:45px;
@@ -23,8 +23,8 @@ body{
   margin: auto;
 }
 input[type="text"], input[type="password"], input[type="ISBN"]{
-	HEIGHT:45px;
-	width:300px;
+	HEIGHT:4px;
+	width:150px;
 	text-align:center;
 	font-size:18px;
 	padding-left:20px;
@@ -38,7 +38,7 @@ input[type="text"], input[type="password"], input[type="ISBN"]{
   text-transform: uppercase;
   outline: 0;
   background: #cccccc;
-  width: 100%;
+  width: 55%;
   border: 0;
   padding: 15px;
   color: #FFFFFF;
