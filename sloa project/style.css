@@ -14,7 +14,7 @@ body{
 	padding:45px;
 	margin: 0 auto 100px;
 	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
-	
+
 }
 .login-page {
   width: 560px;
@@ -22,22 +22,22 @@ body{
   margin: auto;
 }
 input[type="text"], input[type="password"], input[type="ISBN"]{
-	HEIGHT:45px;
-	width:300px;
+	HEIGHT:4px;
+	width:150px;
 	text-align:center;
 	font-size:18px;
 	padding-left:20px;
-	
+
 }
 .form button:hover,.form button:active,.form button:focus {
   background: #43A047;
 }
 .form button {
- 
+
   text-transform: uppercase;
   outline: 0;
   background: #cccccc;
-  width: 100%;
+  width: 55%;
   border: 0;
   padding: 15px;
   color: #FFFFFF;
