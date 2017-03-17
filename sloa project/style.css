@@ -1,0 +1,52 @@
+html{
+	background:#ccccc;
+}
+body{
+	margin: 0;
+}
+.form{
+	width:500px;
+	height: 400px;
+	text-align:center;
+	background-color: rgba(52,73,94,0.7);
+	border-radius: 4px;
+	margin-top:150px;
+	padding:45px;
+	margin: 0 auto 100px;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+	
+}
+.login-page {
+  width: 560px;
+  padding: 12% 0 0;
+  margin: auto;
+}
+input[type="text"], input[type="password"], input[type="ISBN"]{
+	HEIGHT:45px;
+	width:300px;
+	text-align:center;
+	font-size:18px;
+	padding-left:20px;
+	
+}
+.form button:hover,.form button:active,.form button:focus {
+  background: #43A047;
+}
+.form button {
+ 
+  text-transform: uppercase;
+  outline: 0;
+  background: #cccccc;
+  width: 100%;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  t
+}
+body 				{background-color: #641094;
+}
+head{background:#CCCCCC;
+margin-top:15px
+padding:25px;}

@@ -1,0 +1,79 @@
+/* Erick V & team; 
+	SLOA Project Homepage
+ */
+
+#wrapper			{
+					 width: 80%;
+			 		 margin-right: auto;
+			 		 margin-left: auto;
+			 		 background-color: #29147E;
+			 		 min-width: 900px;
+			 		 max-width: 1280px;
+			 		 box-shadow: 5px 5px 5px #828282;
+					 height: 800px;
+					 	 padding: 15px;
+					}
+					
+body 				{background-color: #641094;}
+
+h2 					{
+					 padding-left: 4em;	
+					}
+p 					{padding-left: 4em;}
+
+#logoContainer 		{width: 100%;}
+	img 				{}
+button 				{float: right;}
+	
+ul 					{
+					 list-style-type: none;
+					 margin: 0;
+					 padding: 0;
+					 overflow: hidden;
+					 background-color: #B72628;
+					 text-align:center;
+				
+					 }
+li 					{
+					 float: left;
+					 padding-right:25px;
+					}
+li a 				{
+					 margin-left: auto;
+					 margin-right: auto;
+					 display: block;
+					 color: #000000;
+					 text-align: center;
+					 padding: 12px 55px; /* padding on 85px stretches it out*/
+					 text-decoration: none;
+					 
+					 
+					}
+a:hover 			{
+					 background-color: #FF0004;
+					}
+
+#slideshow 			{
+					
+					 overflow:hidden; /* Hides overflow of slideshow */
+					 margin: auto;
+					 padding-top: 20px;
+					 
+					 width:85%;
+					 height: 62%;
+					}
+.mySlides img{
+					height:1000px;
+					width:400px;
+					padding-bottom:200px;
+}
+
+.mySlides 			{
+					height:500px
+					width:1200px;
+					overflow:hidden;
+					}
+
+
+
+
